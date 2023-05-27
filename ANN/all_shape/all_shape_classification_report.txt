@@ -1,0 +1,22 @@
+Classification Report:
+0:
+  precision: 0.993227029955879
+  recall: 0.9677212564576342
+  f1-score: 0.9803082682353841
+  support: 26519
+1:
+  precision: 0.9685929187305081
+  recall: 0.9934146157898698
+  f1-score: 0.9808467554663842
+  support: 26574
+accuracy: 0.9805812442318196
+macro avg:
+  precision: 0.9809099743431935
+  recall: 0.980567936123752
+  f1-score: 0.9805775118508842
+  support: 53093
+weighted avg:
+  precision: 0.9808972148822721
+  recall: 0.9805812442318196
+  f1-score: 0.9805777907652203
+  support: 53093
